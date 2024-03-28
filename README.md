@@ -92,7 +92,7 @@ This will hopefully be fixed soon.
         "TXT": ["example_verification=1234567890"]
     },
 
-    "proxied": false
+    "proxied": true
 }
 ```
 
